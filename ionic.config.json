@@ -1,0 +1,8 @@
+{
+  "name": "dezina",
+  "app_id": "0cfb8ad6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
